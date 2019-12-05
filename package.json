@@ -1,6 +1,6 @@
 {
-  "name": "rp-mocha-reporter",
-  "version": "2.0.5",
+  "name": "mocha-reportportal-reporter",
+  "version": "2.0.7",
   "description": "mocha reporter for EPAM Report Portal",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     {
       "name": "Alexander Galichenko",
       "email": "alexandr.galichenko@gmail.com"
+    },
+    {
+      "name": "Nick Fields",
+      "email": "nickfields@invisionapp.com"
     }
   ],
   "license": "Apache 2.0",
@@ -19,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reportportal/agent-js-mocha"
+    "url": "git+https://github.com/nick-invision/agent-js-mocha"
   },
   "devDependencies": {
     "chai": "^3.5.0",

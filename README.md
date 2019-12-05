@@ -18,7 +18,8 @@ let mochaMain = new Mocha({
         endpoint: "",
         token: "",
         launch: "",
-        project: ""
+        project: "",
+        tags: [] // optional string array of tags
     }
 });
 ```
